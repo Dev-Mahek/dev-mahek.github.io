@@ -43,9 +43,7 @@ dev-mahek.github.io/
 - 📱 **Responsive layout** for different devices  
 - 🌍 **Hosted on GitHub Pages** for free & reliable deployment  
 
----
-
-## 🚀 Getting Started
+🚀 Getting Started
 
 ### 1. Clone the Repository
 ```bash
