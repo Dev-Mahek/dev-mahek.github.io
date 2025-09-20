@@ -47,7 +47,7 @@ dev-mahek.github.io/
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/Dev-Mahek/dev-mahek.github.io.git
 
