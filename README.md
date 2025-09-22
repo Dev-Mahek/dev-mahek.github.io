@@ -1,4 +1,4 @@
-# my-1st-project
+# my-first-website
 
 ## 🌐 Overview
 
