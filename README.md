@@ -47,51 +47,44 @@ dev-mahek.github.io/
 
 ## 🚀 Getting Started
 
-###Clone the Repository
-
-```bash
-git clone https://github.com/Dev-Mahek/dev-mahek.github.io.git
-
-___
-
-📍 Open the Project
-
-Simply open index.html in any browser
-
-Or run a lightweight local server for better testing (e.g., Live Server in VS Code)
+🔴  Open the Project (Clone the repo and explore)
+  
+🔴  Simply open index.html in any browser
+  
+🔴  Or run a lightweight local server for better testing (e.g., Live Server in VS Code)
 
 ---
 
 🛠️ Usage
 
-Modify index.html to update structure or content
-
-Edit style.css to change look and feel
-
-Use script.js to add interactivity
-
-Add or replace assets (images/videos/fonts) as needed
+ Modify index.html to update structure or content
+  
+ Edit style.css to change look and feel
+  
+ Use script.js to add interactivity
+  
+ Add or replace assets (images/videos/fonts) as needed
 
 ---
 
 📜 License
 
-MIT License
+  MIT License
+  
+  This project is licensed under the [MIT License](./LICENSE).
 
-This project is licensed under the [MIT License](./LICENSE).
 
+🔮 Future Improvements 🎯
 
-🔮 Future Improvements
-
-Add more sections (About, Projects, Contact)
-
-Improve mobile responsiveness
-
-Add animations or transitions
-
-Implement a contact form
-
-Optimize media loading (lazy loading, compression)
+👉 Add more sections (About, Projects, Contact)
+  
+👉  Improve mobile responsiveness
+  
+👉  Add animations or transitions
+  
+👉  Implement a contact form
+  
+👉  Optimize media loading (lazy loading, compression)
 
 ---
 
@@ -101,5 +94,9 @@ Mahek Roy
 
 🌐 GitHub: Dev-Mahek
 
-📧 (royarindomKVSIL@gmail.cpm)
+📧 royarindomKVSIL@gmail.com
 
+Clone the Repository
+
+```bash
+git clone https://github.com/Dev-Mahek/dev-mahek.github.io.git
